@@ -31,9 +31,20 @@ Este dataset está diseñado para practicar:
 
 ## Instrucciones de Uso
 
-1. Clona este repositorio en tu IDE de IA preferido
-2. Abre el archivo `datos_ejercicio.csv`
-3. Utiliza las capacidades de IA de tu IDE para:
+### 📥 Opción 1: Clonar el repositorio
+```bash
+git clone https://github.com/digitalsapiensos/laboratorio-datos-ejercicio.git
+```
+
+### 📥 Opción 2: Descargar archivo CSV directamente
+1. Visita: https://github.com/digitalsapiensos/laboratorio-datos-ejercicio
+2. Haz clic en `datos_ejercicio.csv`
+3. Haz clic en el botón "Download" o "Raw"
+4. Guarda el archivo en tu computadora
+
+### 🚀 Trabajar con los datos
+1. Abre el archivo `datos_ejercicio.csv` en tu IDE de IA preferido
+2. Utiliza las capacidades de IA de tu IDE para:
    - Analizar la estructura de los datos
    - Generar estadísticas básicas
    - Crear visualizaciones simples
